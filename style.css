@@ -1,0 +1,29 @@
+
+.box{
+    display: flex;
+    justify-content: space-between;
+    align-items:cente;
+    background-image:url(./images/banner/banner_1768053144684.jpeg);
+    margin:0px auto;
+}
+.box img{
+    padding-left:50px;
+}
+.texts{
+    text-align:right;
+    padding-right:140px;
+    margin-top: 70px;
+}
+.texts p {
+    color:#474747;
+    margin-bottom: 20px;
+}
+.text button{
+    color:#eeeeee;
+    background-color: rgb(237, 103, 54);
+    border: none;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-bottom: 70px;
+}
